@@ -118,9 +118,9 @@ Este projeto possui **código-fonte privado**. Para:
 
 Entre em contato:
 
-- 📧 **E-mail:** [seu-email@exemplo.com](mailto:felipefurlaneto01@gmail.com)
+- 📧 **E-mail:** [felipefurlaneto@gmail.com](mailto:felipefurlaneto01@gmail.com)
 - 🐙 **GitHub:** [@FelipePF22](https://github.com/FelipePF22)
-- 💼 **LinkedIn:** [seu-perfil](https://www.linkedin.com/in/felipepereira56/)
+- 💼 **LinkedIn:** [felipepereira56](https://www.linkedin.com/in/felipepereira56/)
 
 ---
 
@@ -266,9 +266,10 @@ This project has a **private source code**. To:
 
 Get in touch:
 
-- 📧 **E-mail:** [seu-email@exemplo.com](mailto:felipefurlaneto01@gmail.com)
+- 📧 **E-mail:** [felipefurlaneto@gmail.com](mailto:felipefurlaneto01@gmail.com)
 - 🐙 **GitHub:** [@FelipePF22](https://github.com/FelipePF22)
-- 💼 **LinkedIn:** [seu-perfil](https://www.linkedin.com/in/felipepereira56/)
+- 💼 **LinkedIn:** [felipepereira56](https://www.linkedin.com/in/felipepereira56/)
+- 
 ---
 
 ## 📄 License
